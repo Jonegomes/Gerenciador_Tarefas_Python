@@ -1,7 +1,4 @@
 # Gerenciador_Tarefas_Python
-git clone https://github.com/Jonegomes/Gerenciador_Tarefas_Python.git
-cd Gerenciador_Tarefas_Pytho
-python main.py
 
 #### Descrição:
 Projeto desenvolvido como prática de fundamentos em Python para análise de dados e automação de rotinas.
