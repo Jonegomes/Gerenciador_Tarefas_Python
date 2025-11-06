@@ -1,4 +1,4 @@
-# Gerenciador_Tarefas_Python
+# Gerenciador_Tarefas_Python_01
 
 #### Descrição:
 Projeto desenvolvido como prática de fundamentos em Python para análise de dados e automação de rotinas.
